@@ -3,6 +3,16 @@ body {
     flex-direction: column;
 }
 
+.header {
+    display: flex;
+    justify-content: space-between;
+}
+
+ul {
+    display: flex;
+    list-style-type: none;
+}
+
 .section-one {
     outline: 1px solid red;
 }
