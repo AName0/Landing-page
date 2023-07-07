@@ -13,6 +13,14 @@ body {
     font-weight: 900;
 }
 
+.main-title {
+    font-size: 48px;
+    font-weight: 900;
+    flex-wrap: wrap;
+    width: 300px;
+    outline: 1px solid orange;
+}
+
 ul {
     display: flex;
     list-style-type: none;
