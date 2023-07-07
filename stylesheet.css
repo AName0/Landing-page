@@ -8,9 +8,15 @@ body {
     justify-content: space-between;
 }
 
+.header-logo {
+    font-size: 32px;
+    font-weight: 900;
+}
+
 ul {
     display: flex;
     list-style-type: none;
+    gap: 8px;
 }
 
 .section-one {
