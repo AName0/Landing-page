@@ -5,7 +5,7 @@ body {
 
 .header {
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
 }
 
 .header-logo {
@@ -21,7 +21,10 @@ body {
     outline: 1px solid orange;
 }
 
-
+.main-body {
+    display: flex;
+    justify-content: space-around;
+}
 
 .sign-up {
     width: 100px;
