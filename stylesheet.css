@@ -23,7 +23,8 @@ body {
 
 .main-body {
     display: flex;
-    justify-content: space-around;
+    justify-content: center;
+    gap: 400px;
     outline: 1px solid black;
 }
 
