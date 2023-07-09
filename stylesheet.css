@@ -25,7 +25,7 @@ body {
 .main-body {
     display: flex;
     justify-content: center;
-    gap: 400px;
+    gap: 32px;
     outline: 1px solid black;
 }
 
@@ -35,7 +35,7 @@ body {
 
 .main-body-container {
     outline: 1px solid orangered;
-    width: 400px;
+    width: 720px;
 }
 
 .sign-up {
