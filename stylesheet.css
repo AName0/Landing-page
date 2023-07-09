@@ -62,6 +62,10 @@ ul {
     text-align: center;
 }
 
+.image-sub-text-container {
+    display: flex;
+}
+
 .section-two {
     outline: 1px solid green;
 }
