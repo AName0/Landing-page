@@ -24,6 +24,16 @@ body {
 .main-body {
     display: flex;
     justify-content: space-around;
+    outline: 1px solid black;
+}
+
+.sub-text {
+    flex-wrap: wrap;
+}
+
+.main-body-container {
+    outline: 1px solid orangered;
+    width: 400px;
 }
 
 .sign-up {
@@ -40,6 +50,8 @@ ul {
 .section-one {
     outline: 1px solid red;
     background-color: lightskyblue;
+    display: flex;
+    flex-direction: column;
 }
 
 .section-two {
