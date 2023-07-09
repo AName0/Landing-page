@@ -56,6 +56,12 @@ ul {
     flex-direction: column;
 }
 
+.section-heading {
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
+
 .section-two {
     outline: 1px solid green;
 }
