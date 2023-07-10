@@ -61,10 +61,18 @@ ul {
     font-size: 32px;
     font-weight: bold;
     text-align: center;
+    margin: 32px;
 }
 
 .image-sub-text-container {
     display: flex;
+    justify-content: center;
+    gap: 48px;
+    margin-bottom: 48px;
+}
+
+.image-sub-text {
+    max-width: 200px;
 }
 
 .section-two {
