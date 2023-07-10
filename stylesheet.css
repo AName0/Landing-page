@@ -114,6 +114,13 @@ a {
     outline: 1px solid blue;
 }
 
+.advertisement {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    outline: 1px solid violet;
+}
+
 .section-four {
     outline: 1px solid yellow;
 }
