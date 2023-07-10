@@ -115,10 +115,20 @@ a {
 
 .advertisement {
     display: flex;
+    background-color: blue;
     outline: 1px solid red;
     margin: 64px;
     padding: 32px;
     gap: 64px;
+}
+
+.ad-text-container {
+    color: white;
+}
+
+.ad-heading {
+    font-size: 24px;
+    font-weight: bold;
 }
 
 .section-four {
