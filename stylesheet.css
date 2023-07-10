@@ -28,9 +28,8 @@ body {
 
 .hero-section {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
-    gap: 32px;
     margin-top: 64px;
     margin-bottom: 64px;
 }
@@ -42,7 +41,7 @@ body {
 }
 
 .hero-section-container {
-    width: 720px;
+    max-width: 720px;
 }
 
 .sign-up {
