@@ -111,16 +111,17 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    outline: 1px solid blue;
 }
 
 .advertisement {
     display: flex;
-    justify-content: center;
-    align-items: center;
-    outline: 1px solid violet;
+    outline: 4px solid red;
+    margin: 64px;
 }
 
 .section-four {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     outline: 1px solid yellow;
 }
