@@ -68,8 +68,9 @@ a {
 }
 
 .section-heading {
-    font-size: 32px;
-    font-weight: bold;
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
     text-align: center;
     margin: 32px;
 }
@@ -91,7 +92,9 @@ a {
 }
 
 .quote {
-    font-size: 48px;
+    font-size: 36px;
+    font: italic;
+    color: #1F2937;
 }
 
 .quote-container {
@@ -116,12 +119,12 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: grey;
+    background-color: #E5E7EB;
 }
 
 .advertisement {
     display: flex;
-    background-color: blue;
+    background-color: #3882F6;
     outline: 1px solid red;
     margin: 64px;
     padding: 32px;
