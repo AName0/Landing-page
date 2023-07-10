@@ -10,13 +10,15 @@ body {
 }
 
 .header-logo {
-    font-size: 32px;
-    font-weight: 900;
+    font-size: 24px;
+    font-weight: bolder;
+    color: #F9FAF8;
 }
 
-.main-title {
+.hero-main-text {
     font-size: 48px;
-    font-weight: 900;
+    color: #F9FAF8;
+    font-weight: bolder;
     flex-wrap: wrap;
     width: 300px;
     outline: 1px solid orange;
@@ -31,7 +33,9 @@ body {
     margin-bottom: 64px;
 }
 
-.sub-text {
+.hero-sub-text {
+    font-size: 18px;
+    color: #E5E7EB;
     flex-wrap: wrap;
 }
 
@@ -52,15 +56,15 @@ ul {
 
 a {
     text-decoration: none;
-    color: white;
+    font-size: 18px;
+    color: #E5E7EB;
 }
 
 .section-one {
     outline: 1px solid red;
-    background-color: darkblue;
+    background-color: #1F2937;
     display: flex;
     flex-direction: column;
-    color: white;
 }
 
 .section-heading {
