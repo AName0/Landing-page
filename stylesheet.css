@@ -79,7 +79,32 @@ ul {
     outline: 1px solid green;
 }
 
+.quote {
+    font-size: 48px;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    margin: 128px;
+    outline: 1px solid brown;
+}
+
+.author {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.author-container {
+    display: flex;
+    justify-content: flex-end;
+}
+
 .section-three {
+    display: flex;
+    justify-content: center;
+    align-items: center;
     outline: 1px solid blue;
 }
 
