@@ -1,6 +1,7 @@
 body {                      
     display: flex;                  /* TODO: Recap on flex grow,shrink and basis */
     flex-direction: column;
+    font-family: sans-serif;
 }
 
 .header {
@@ -51,7 +52,7 @@ body {
 ul {
     display: flex;
     list-style-type: none;
-    gap: 8px;
+    gap: 16px;
 }
 
 a {
