@@ -137,3 +137,14 @@ a {
     align-items: center;
     outline: 1px solid yellow;
 }
+
+.footer {
+    display: flex;
+    justify-content: center;
+    background-color: darkblue;
+}
+
+.footer-text {
+    margin: 32px;
+    color: white;
+}
