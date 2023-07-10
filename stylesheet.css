@@ -159,7 +159,7 @@ button {
 .footer {
     display: flex;
     justify-content: center;
-    background-color: darkblue;
+    background-color: #1F2937;
 }
 
 .footer-text {
