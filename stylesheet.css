@@ -50,6 +50,10 @@ ul {
     gap: 8px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .section-one {
     outline: 1px solid red;
     background-color: lightskyblue;
