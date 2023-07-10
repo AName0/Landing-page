@@ -1,5 +1,5 @@
-body {
-    display: flex;
+body {                      
+    display: flex;                  /* TODO: Recap on flex grow,shrink and basis */
     flex-direction: column;
 }
 
@@ -115,8 +115,10 @@ a {
 
 .advertisement {
     display: flex;
-    outline: 4px solid red;
+    outline: 1px solid red;
     margin: 64px;
+    padding: 32px;
+    gap: 64px;
 }
 
 .section-four {
