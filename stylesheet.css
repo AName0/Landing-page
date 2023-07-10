@@ -5,7 +5,7 @@ body {
 
 .header {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
 }
 
@@ -22,20 +22,20 @@ body {
     outline: 1px solid orange;
 }
 
-.main-body {
+.hero-section {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 32px;
-    outline: 1px solid black;
+    margin-top: 64px;
+    margin-bottom: 64px;
 }
 
 .sub-text {
     flex-wrap: wrap;
 }
 
-.main-body-container {
-    outline: 1px solid orangered;
+.hero-section-container {
     width: 720px;
 }
 
@@ -112,6 +112,7 @@ a {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: grey;
 }
 
 .advertisement {
